@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+requests
+python-dotenv
+sentence-transformers
+chromadb
+pypdf
+transformers
+torch
+google-generativeai
+langchain
+langchain-community
